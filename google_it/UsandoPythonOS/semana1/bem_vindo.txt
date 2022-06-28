@@ -1,0 +1,58 @@
+Using Python to Interact with the Operating System
+Neste curso, você aprenderá a usar o Python para executar tarefas de administração do sistema e interagir com o sistema operacional de um computador. Você está prestes a embarcar em uma jornada emocionante para aprender uma das habilidades de trabalho mais requisitadas em TI hoje!
+
+Pré-requisitos do curso
+Este curso baseia-se no conteúdo ensinado no curso de introdução ao Python:
+
+A sintaxe básica do Python (if, for, while, definindo funções, classes e métodos)
+
+Como usar as estruturas de dados mais comuns (strings, listas, tuplas e dicionários)
+
+Como importar e usar módulos Python adicionais
+
+Este curso também requer alguma familiaridade com alguns conceitos básicos de sistema operacional:
+
+Arquivos, diretórios e sistemas de arquivos
+
+Processos
+
+Arquivos de registro
+
+Para tirar o máximo proveito deste curso, recomendamos que você instale o software em sua máquina ou peça ao administrador do sistema para instalá-lo.
+
+Como passar de classe
+O certificado do curso oferece uma maneira de provar suas novas habilidades de programação para os empregadores. Para se qualificar para o certificado, você precisa se inscrever no programa, pagar a taxa e passar nas avaliações graduadas. Se você não quiser pagar, você ainda pode auditar o curso gratuitamente. Isso permite que você visualize todos os vídeos e envie testes práticos à medida que aprende. Uma coisa a lembrar, porém, esta opção não permite que você envie avaliações, obtenha uma nota ou receba o certificado.
+
+Como funcionam os prazos
+Quando você se matricula no curso, o sistema define automaticamente um prazo para quando você precisa concluir cada seção. Atenção: esses prazos existem para ajudá-lo a organizar seu tempo, mas você pode fazer o curso no seu próprio ritmo. Se você "perder" um prazo, basta redefini-lo para uma nova data. Não há limite de tempo para terminar o curso, e você pode ganhar o certificado sempre que terminar.
+
+Qwiklabs
+Para alguns de nossos exercícios, você usará um aplicativo chamado Qwiklabs. O Qwiklabs permite que você interaja com um computador executando um sistema operacional que pode não ser o que está sendo executado em sua máquina. Os cenários do Qwiklabs permitirão que você resolva alguns problemas do mundo real, colocando seu conhecimento em prática por meio de exercícios ativos de aprendizado.
+
+Recebendo e dando ajuda
+Aqui estão algumas maneiras pelas quais você pode dar e obter ajuda: 
+
+Fóruns de discussão: Você pode compartilhar informações e ideias com seus colegas alunos nos fóruns de discussão. Esses também são ótimos lugares para encontrar respostas para perguntas que você possa ter. Se você está preso em um conceito, está lutando para resolver um exercício prático ou apenas quer mais informações sobre um assunto, os fóruns de discussão estão lá para ajudá-lo a seguir em frente.
+
+Suporte ao aluno do Coursera: use a Central de ajuda do aluno para encontrar informações sobre problemas técnicos específicos. Isso inclui mensagens de erro, dificuldade para enviar tarefas ou problemas com a reprodução de vídeo. Se você não encontrar uma resposta na documentação, você também pode relatar seu problema para a equipe de suporte do Coursera clicando em Fale Conosco! link disponível na parte inferior dos artigos da Central de Ajuda.
+
+Suporte do Qwiklabs: use o formulário de solicitação de suporte do Qwiklabs para relatar quaisquer problemas ao acessar ou usar o Qwiklabs. Um membro da equipe do Qwiklabs trabalhará com você para ajudar a resolver o problema.
+
+Problemas de conteúdo do curso: Você também pode sinalizar problemas nos materiais do curso classificando-os. Ao avaliar os materiais do curso, o instrutor verá suas avaliações e comentários; outros alunos não. Para avaliar os materiais do curso:
+
+Abra o material do curso que deseja avaliar. Você só pode avaliar vídeos, leituras e testes.  
+
+Se o conteúdo foi interessante ou ajudou você a aprender, clique no ícone de polegar para cima.
+
+Se o conteúdo foi inútil ou confuso, clique no ícone de polegar para baixo.  
+
+Descobrindo mais informações
+Ao longo deste curso, ensinamos como fazer uma série de coisas com Python, Bash e outras ferramentas. Embora forneçamos muitas informações por meio de vídeos e leituras complementares, às vezes você pode precisar pesquisar as coisas por conta própria, agora e ao longo de sua carreira. As coisas mudam rapidamente em TI, por isso é fundamental fazer sua própria pesquisa para se manter atualizado sobre o que há de novo. Recomendamos que você use seu mecanismo de pesquisa favorito para encontrar mais informações sobre os conceitos abordados neste curso — é uma ótima prática para o mundo real!
+
+Além dos resultados da pesquisa, aqui estão alguns bons recursos de programação disponíveis online:
+
+Automatize o Boring Stuff com Python : Este livro (disponível online e impresso) inclui muitos exercícios práticos de programação para iniciantes. Você pode consultar este conteúdo para ler mais sobre algumas das coisas que discutiremos e se inspirar com mais ideias de coisas que podem ser automatizadas.
+
+Guia do Mochileiro para Python : Este site (disponível online e impresso) também cobre muito do que podemos fazer com Python. Novamente, você pode usar este recurso para saber mais sobre os assuntos que abordamos (e os que tivemos que omitir por restrições de tempo).
+
+A referência oficial da linguagem : Depois de saber qual ferramenta Python você usará para realizar uma determinada tarefa, esta referência técnica de todos os componentes da linguagem Python pode ser uma ótima   

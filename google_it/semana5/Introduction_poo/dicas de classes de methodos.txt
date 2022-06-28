@@ -1,0 +1,17 @@
+Classes e instâncias
+As classes definem o comportamento de todas as instâncias de uma classe específica.
+
+Cada variável de uma classe específica é uma instância ou objeto.
+
+Os objetos podem ter atributos, que armazenam informações sobre o objeto.
+
+Você pode fazer os objetos funcionarem chamando seus métodos.
+
+O primeiro parâmetro dos métodos (self) representa a instância atual.
+
+Métodos são como funções, mas só podem ser usados ​​por meio de uma classe.
+
+Métodos especiais
+Métodos especiais começam e terminam com __.
+
+Métodos especiais têm nomes específicos, como __init__ para o construtor ou __str__ para a conversão em string.

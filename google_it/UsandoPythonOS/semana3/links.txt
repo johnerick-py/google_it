@@ -1,0 +1,11 @@
+Confira os links a seguir para mais informações:
+
+https://docs.python.org/3/howto/regex.html
+
+https://docs.python.org/3/library/re.html
+
+https://docs.python.org/3/howto/regex.html#greedy-versus-non-greedy
+
+https://regexcrossword.com
+
+Grite para regex101.com , que explicará cada estágio de uma regex.
