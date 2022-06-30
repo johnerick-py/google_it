@@ -1,0 +1,32 @@
+Summary
+Python 2 and Python 3 handle input and raw_input differently.
+
+In Python 2
+
+input(x) is roughly the same as eval(raw_input(x))
+
+raw_input() is preferred, unless the author wants to support evaluating string expressions.
+
+eval() is used to evaluate string expressions.
+
+Standard Library Docs:
+
+https://docs.python.org/2/library/functions.html#input
+
+https://docs.python.org/2/library/functions.html#raw_input
+
+https://docs.python.org/2/library/functions.html#eval
+
+In Python 3
+
+Input handles string as a generic string. It does not evaluate the string as a string expression.
+
+raw_input doesn’t exist, but with some tricky techniques, it can be supported.
+
+eval() can be used the same as Python 2.
+
+Standard Library Docs: 
+
+https://docs.python.org/3/library/functions.html#input
+
+https://docs.python.org/3/library/functions.html#eval
